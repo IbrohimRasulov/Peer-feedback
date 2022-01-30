@@ -8,7 +8,7 @@
 
 ### Live Demo
 
-[Live Demo Link](https://ibrohimrasulov.github.io/Peer-feedback/)
+[Live Demo Link](https://ibrohimrasulov.github.io/Peer-feedback/dist/)
 
 ## Built With
 
